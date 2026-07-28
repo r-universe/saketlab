@@ -1,4 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/saketlab/saketlab.r-universe.dev
 	branch = HEAD
+[submodule "censusindia"]
+	path = censusindia
+	url = https://github.com/saketlab/censusindia
