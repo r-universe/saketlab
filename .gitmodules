@@ -2,6 +2,14 @@
 	path = .registry
 	url = https://github.com/saketlab/saketlab.r-universe.dev
 	branch = HEAD
+[submodule "anumaan"]
+	path = anumaan
+	url = https://github.com/saketlab/anumaan
 [submodule "censusindia"]
 	path = censusindia
 	url = https://github.com/saketlab/censusindia
+[submodule "seqout"]
+	path = seqout
+	url = https://github.com/saketlab/seqout
+	branch = master
+	subdir = R
