@@ -8,8 +8,13 @@
 [submodule "censusindia"]
 	path = censusindia
 	url = https://github.com/saketlab/censusindia
+[submodule "genevintage"]
+	path = genevintage
+	url = https://github.com/saketlab/genevintage
+	branch = main
+	subdir = R
 [submodule "seqout"]
 	path = seqout
 	url = https://github.com/saketlab/seqout
-	branch = master
+	branch = main
 	subdir = R
