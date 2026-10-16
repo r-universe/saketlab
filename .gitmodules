@@ -2,6 +2,14 @@
 	path = .registry
 	url = https://github.com/saketlab/saketlab.r-universe.dev
 	branch = HEAD
+[submodule "SexSeek"]
+	path = SexSeek
+	url = https://github.com/saketlab/SexSeek
+[submodule "alethiaR"]
+	path = alethiaR
+	url = https://github.com/saketlab/alethia
+	branch = main
+	subdir = R
 [submodule "anumaan"]
 	path = anumaan
 	url = https://github.com/saketlab/anumaan
@@ -16,6 +24,12 @@
 [submodule "lightson"]
 	path = lightson
 	url = https://github.com/saketlab/lightson
+[submodule "mospiR"]
+	path = mospiR
+	url = https://github.com/saketkc/mospiR
+[submodule "nesstarR"]
+	path = nesstarR
+	url = https://github.com/saketkc/nesstarR
 [submodule "seqout"]
 	path = seqout
 	url = https://github.com/saketlab/seqout
