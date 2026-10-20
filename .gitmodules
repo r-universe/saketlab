@@ -37,7 +37,11 @@
 	subdir = R
 [submodule "varunayan"]
 	path = varunayan
-	url = https://github.com/saketlab/varunayanR
+	url = https://github.com/saketlab/varunayan
+	branch = main
+	subdir = R
 [submodule "vayuayan"]
 	path = vayuayan
-	url = https://github.com/saketlab/vayuayanR
+	url = https://github.com/saketlab/vayuayan
+	branch = main
+	subdir = R
